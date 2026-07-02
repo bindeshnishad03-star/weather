@@ -42,7 +42,7 @@ Feel free to use and modify for your own projects!
 
 ---
 
-## 📞 Connect with Barmajli
+## 📞 Connect with BINDESH
 
 -LinkedIn:[Follow Here](https://www.linkedin.com/in/bindesh-nishad-8689b2323 )
 - GitHub: [Follow Here](https://github.com/bindeshnishad03-star)
